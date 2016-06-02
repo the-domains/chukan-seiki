@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[chukan-seiki]]></title>
         <description><![CDATA[chukan-seiki]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chukan-seiki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 15:56:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 16:02:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chukan-seiki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc284b30-a6b7-4ffa-a462-29b326f19736.png">]]></description>
+            <link>https://thegrid.ai/chukan-seiki/801ec285-c233-4283-a571-9e1e44fc5888/index.html</link>
+            <guid isPermaLink="false">801ec285-c233-4283-a571-9e1e44fc5888</guid>
+            <pubDate>Thu, 02 Jun 2016 16:00:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f78a3d-6ac4-4690-82cb-7679f93c46c7.jpg">]]></description>
-            <link>undefined9fef394d-ec81-4908-a45d-de88019e7086/index.html</link>
+            <link>https://thegrid.ai/chukan-seiki/9fef394d-ec81-4908-a45d-de88019e7086/index.html</link>
             <guid isPermaLink="false">9fef394d-ec81-4908-a45d-de88019e7086</guid>
             <pubDate>Thu, 02 Jun 2016 15:56:23 GMT</pubDate>
         </item>
