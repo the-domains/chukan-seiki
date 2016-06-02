@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chukan Seiki
-datePublished: '2016-06-02T15:10:00.285Z'
-dateModified: '2016-06-02T15:09:34.515Z'
+datePublished: '2016-06-02T15:11:08.549Z'
+dateModified: '2016-06-02T15:10:59.453Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-02-chukan-seiki.md
 authors: []
 publisher: null
